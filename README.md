@@ -61,6 +61,7 @@ Some practice management platforms offer integrations with government portals. T
 It’s worth noting that not all integrations are the same. Some are native integrations, where the practice management software connects directly to another app as a built-in feature. These integrations tend to be quick and easy to utilize — just a few clicks and you are done. 
 
 Other integrations are via third-party tools such as Zapier or Make (formally Integromat), which act as connectors that allow two applications to “talk” to each other. This type of integration typically involves more technical steps and is therefore more prone to issues. The upside is that it allows you to connect to thousands of apps, vastly expanding your automation and interoperability capabilities.
+
 **Conclusion**
 
 When it comes to getting the most out of your practice management platform, integration is essential. By connecting to different software platforms, you can seamlessly share data, enhance workflows, and increase efficiency and accuracy. 
