@@ -1,3 +1,5 @@
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.getcanopy.com/hubfs/Legacy/Imported_Blog_Media/how-valuable-is-your-time-2.jpg)
+
 Practice management software is a bit like a Swiss army knife in terms of the sheer breadth of tools it combines. But even the most comprehensive practice management platform can’t do everything your accounting firm needs. To work effectively alongside other software platforms, you need to ensure seamless integration. 
 
 In this article, we’ll explore everything you need to know about integrating [practice management software](https://blog.taxdome.com/?category=practice-management) with the rest of your accounting tech stack. 
@@ -20,7 +22,7 @@ Accounting workflows often involve multiple software tools. The process of engag
 
 Because data is shared seamlessly between software systems, there’s no need for manual data entry. This reduces the risk of human error significantly, which can save your accounting firm all manner of problems down the line.
 
-3**Increased productivity**
+3 **Increased productivity**
 
 With a joined-up tech stack, your accounting team will be able to work more efficiently than ever. All that time spent jumping from one platform to another is eliminated. As a result, technology goes from being a barrier to productivity to an accelerator.
 
@@ -49,6 +51,7 @@ Again, most practice management systems come with tools for both internal and ex
 **Scheduling apps**
 
 If your platform has a client portal, integrating with scheduling apps such as Calendly can be a game-changer. By enabling clients to book appointments directly in the portal, both parties save time and hassle. 
+
 **Government portals**
 
 Some practice management platforms offer integrations with government portals. TaxDome, for example, allows you to integrate with the IRS (US) to download official client transcripts. You can also connect with Companies House (UK) to sync data related to companies, directors, and important dates. 
